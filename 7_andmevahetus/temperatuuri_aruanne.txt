@@ -1,0 +1,6 @@
+Nädala temperatuuriaruanne
+--------------------------
+Keskmine temperatuur: 14.86kraadi
+Kõige soojem päev: Laupäev (1 kraadi)
+Kõige külmem päev: Kolmapäev (0 kraadi)
+Päevi üle 15 kraadi: 3
