@@ -1,0 +1,5 @@
+print("Tere")
+print("Tere")
+print("Tere")
+print("Tere")
+print("Tere")
